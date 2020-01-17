@@ -24,11 +24,11 @@
 ## Image 
 - Server
 
-![SolarPannel_Tracking](https://github.com/baobon/SmartHome_Sensor_IoT/blob/master/Image/screen1.png?raw=true)
+![Smart Home](https://github.com/baobon/SmartHome_Sensor_IoT/blob/master/Image/screen1.png?raw=true)
 
 - Product
 
-![SolarPannel_Tracking](https://raw.githubusercontent.com/baobon/SolarPanel_Tracking_IoT/master/Image/screen2.jpg)
+![Smart Home]()
 
 
 
